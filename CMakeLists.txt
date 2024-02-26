@@ -15,8 +15,8 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   robot4ws_msgs
   rtabmap_ros
-  rtabmap_odom
-  rtabmap_msgs
+#  rtabmap_odom
+#  rtabmap_msgs
 )
 
 ## System dependencies are found with CMake's conventions
